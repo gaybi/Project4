@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello, World" << endl;
+  cout << "Hello, #{ARGV.first}!" << endl;
   return 0;
 }

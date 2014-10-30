@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//wekufiwehu
+//comment ayyy
 int main(int argc, char * argv[])
 {
   cout << "Hello, " << argv[10] << "!" << endl;
